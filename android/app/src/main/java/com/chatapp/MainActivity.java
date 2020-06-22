@@ -1,4 +1,4 @@
-package com.chatapp;
+package com.steelworks.chatApp;
 
 import com.facebook.react.ReactActivity;
 
