@@ -32,10 +32,10 @@
               "client_type": 3
             },
             {
-              "client_id": "487853484166-v7j2l4kec1t6si8o1jroaekk6bj79g39.apps.googleusercontent.com",
+              "client_id": "487853484166-v9kbn5hsvojacqlnls1gkidp50jacuhj.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.steelworks.chatTest"
+                "bundle_id": "com.steelworks.chatApp"
               }
             }
           ]

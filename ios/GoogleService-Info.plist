@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>487853484166-v7j2l4kec1t6si8o1jroaekk6bj79g39.apps.googleusercontent.com</string>
+	<string>487853484166-v9kbn5hsvojacqlnls1gkidp50jacuhj.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.487853484166-v7j2l4kec1t6si8o1jroaekk6bj79g39</string>
+	<string>com.googleusercontent.apps.487853484166-v9kbn5hsvojacqlnls1gkidp50jacuhj</string>
 	<key>API_KEY</key>
 	<string>AIzaSyCaUByWpfLZ6NQgLozv0UXnif3J3Z0Th28</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.steelworks.chatTest</string>
+	<string>com.steelworks.chatApp</string>
 	<key>PROJECT_ID</key>
 	<string>chattest-4e47b</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,7 +29,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:487853484166:ios:2cfef67ea6ec5735fcc907</string>
+	<string>1:487853484166:ios:3f9e2c5c70e36a11fcc907</string>
 	<key>DATABASE_URL</key>
 	<string>https://chattest-4e47b.firebaseio.com</string>
 </dict>
